@@ -1,8 +1,8 @@
-## React Native 시작하기
+### React Native 시작하기
 
 참고: 진행하기 전에 개발 환경 설정 가이드를 완료했는지 확인하세요.
 
-### 1단계: Metro 실행하기
+## 1단계: Metro 실행하기
 먼저 React Native의 JavaScript 빌드 도구인 Metro를 실행해야 합니다.
 Metro 개발 서버를 시작하려면 React Native 프로젝트 루트에서 다음 명령어를 실행하세요:
 
