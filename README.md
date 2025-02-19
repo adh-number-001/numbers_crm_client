@@ -1,4 +1,4 @@
-### React Native 시작하기
+# React Native 시작하기
 
 참고: 진행하기 전에 개발 환경 설정 가이드를 완료했는지 확인하세요.
 
@@ -10,7 +10,7 @@ shCopy# npm 사용 시
 ```
 npm start
 ```
-# 또는 Yarn 사용 시
+### 또는 Yarn 사용 시
 ```
 yarn start
 ```
@@ -20,7 +20,7 @@ shCopy# npm 사용 시
 ```
 npm run android
 ```
-# 또는 Yarn 사용 시
+### 또는 Yarn 사용 시
 ```
 yarn android
 ```
