@@ -1,0 +1,32 @@
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# iOS
+ios/Pods/
+ios/build/
+ios/*.xcworkspace/
+ios/*.xcodeproj/xcuserdata/
+ios/*.xcodeproj/project.xcworkspace/
+
+# Android
+android/app/.cxx/
+android/app/build/
+android/.gradle/
+android/build/
+android/local.properties
+android/*.iml
+android/.idea/
+android/gradle/
+android/gradlew
+android/gradlew.bat
+
+# General
+.DS_Store
+.env
+dist/
+build/
+.tmp/
+.temp/
+EOL
